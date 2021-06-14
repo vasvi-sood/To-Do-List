@@ -1,0 +1,14 @@
+.striked
+{
+   
+    text-decoration:line-through;
+}
+.error{
+     color: red;
+    background-color: yellow;
+}
+.success
+{
+    color:blueviolet;
+    background-color:darksalmon;
+}
